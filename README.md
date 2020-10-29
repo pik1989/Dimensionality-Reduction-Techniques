@@ -14,4 +14,4 @@ Here’s a list of topics covered in this playlist/tutorial:
 
 Keep following my videos to get quality content on Python, Statistics, Machine Learning, Deep Learning, Data Science, AI & various other related topics.
 
-![diagram](images/Python.JPG)
+![diagram](images/DR.JPG)
